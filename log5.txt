@@ -1,0 +1,6 @@
+20.03.2025 14:00 - Başlangıç ve bitiş tarihleri belirlendi: 1.1.2020 - 12.12.2025 
+20.03.2025 14:05 - Tarihler parçalanarak yıl, ay ve gün bilgileri ayrıştırıldı.
+20.03.2025 14:10 - Kategoriler ve gazeteler tanımlandı.
+20.03.2025 14:15 - Artık yıl kontrol fonksiyonu (artik_yil) yazıldı.
+20.03.2025 14:20 - Döngü ile her yıl, ay ve gün için URL'ler oluşturulmaya başlandı.
+20.03.2025 14:30 - Tüm kategoriler ve gazeteler için URL formatında çıktı üretildi.

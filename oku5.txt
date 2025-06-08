@@ -1,0 +1,1 @@
+Hafta 3: Python ile tarih verisi işleme ve URL üretimi üzerine çalıştım. Başlangıç ve bitiş tarihleri arasında tüm günleri hesaplayarak, her gün için farklı gazeteler ve kategorilere göre web adresi oluşturan bir program yazdım. Artık yıl hesaplamasını kontrol eden bir fonksiyon da kullandım. Kod başarıyla çalıştı ve çok sayıda URL çıktısı üretildi.
